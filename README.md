@@ -1,4 +1,3 @@
-Propose features 
 
 This website I am willing to make will contain the following features: 
 
